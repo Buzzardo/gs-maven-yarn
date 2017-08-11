@@ -170,4 +170,15 @@ YARN in the other Getting Started Guides for Spring YARN.
 
 Congratulations! You have now created a simple yet effective Maven build file for building Spring YARN projects.
 
+== See Also
+
+The following guides may also be helpful:
+
+* https://spring.io/guides/gs/maven-yarn/[Building Spring YARN Projects with Maven]
+* https://spring.io/guides/gs/yarn-basic/[Simple YARN Application]
+* https://spring.io/guides/gs/yarn-basic-single/[Simple Single Project YARN Application]
+* https://spring.io/guides/gs/yarn-testing/[Testing YARN Application]
+* https://spring.io/guides/gs/yarn-batch-processing/[Batch YARN Application]
+* https://spring.io/guides/gs/yarn-batch-restart/[Restartable Batch YARN Application]
+
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
